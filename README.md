@@ -1,5 +1,5 @@
-# assign-git
-Twinkle Dungarani
-first change
-testbranch change
+labgit
+======
+The material you need for your lab
+and then some!
 
